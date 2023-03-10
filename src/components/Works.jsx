@@ -71,6 +71,8 @@ const ProjectCard = ({
 					<div className='mt-4 flex flex-wrap gap-2 group'>
 						<a
 							href={live_demo}
+							rel="noopener noreferrer"
+							target="_blank"
 							className='bg-[#915eff] rounded-lg p-2 hover:bg-[#7e3bff] transition-all duration-300 ease-in-out group-hover:scale-105 group-hover:bg-opacity-0 hover:text-[#915eff]'
 						>
 							<div class='flex items-center justify-center space-x-3 '>
